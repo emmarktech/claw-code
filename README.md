@@ -1,6 +1,9 @@
 # Rewriting Project Claw Code
 
 <p align="center">
+  <a href="https://github.com/sponsors/emmarktech"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github&style=for-the-badge" alt="Sponsor on GitHub" /></a>
+</p>
+<p align="center">
   <a href="https://star-history.com/#emmarktech/claw-code&Date">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=emmarktech/claw-code&type=Date&theme=dark" />
@@ -18,9 +21,7 @@
   <strong>Better Harness Tools, not merely storing the archive of leaked Claw Code</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/sponsors/emmarktech"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github&style=for-the-badge" alt="Sponsor on GitHub" /></a>
-</p>
+
 
 > [!IMPORTANT]
 > **Rust port is now in progress** on the [`dev/rust`](https://github.com/emmarktech/claw-code/tree/dev/rust) branch and is expected to be merged into main today. The Rust implementation aims to deliver a faster, memory-safe harness runtime. Stay tuned — this will be the definitive version of the project.
@@ -112,6 +113,19 @@ The new Python `src/` tree currently provides:
 - **`tools.py`** — Python-side tool port metadata
 - **`query_engine.py`** — renders a Python porting summary from the active workspace
 - **`main.py`** — a CLI entrypoint for manifest and summary output
+
+## 💬 Support / Questions
+
+For questions, discussions, or collaboration:
+
+👉 Telegram: https://t.me/emmarktech
+
+Feel free to reach out if you’re interested in:
+
+- the architecture  
+- contributions  
+- ideas and improvements  
+- general discussions about AI systems  
 
 ## Quickstart
 
