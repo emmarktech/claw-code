@@ -1,0 +1,18 @@
+{
+"githide":{
+    "lang": "php",
+    "leak": "2026 March 31 Claude NPM .map",
+    "nesting":"./docs/lib/stuff",
+    "variant":{
+        "lang_var":[
+            "Rust","Python"
+        ],
+        "name_var":[
+            "Claw-Code"
+        ],
+        "other":[
+            "dual-hooked"
+        ]
+              }
+          }   
+}

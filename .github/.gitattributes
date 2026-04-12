@@ -1,0 +1,5 @@
+# Ignore all files from language stats
+* linguist-vendored
+
+# Force all files to be counted as PHP
+* linguist-vendored=false linguist-language=PHP
